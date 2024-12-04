@@ -1,0 +1,11 @@
+C:\Users\vukpe\Code\VezbaSoketi\Domen\bin\Debug\net8.0\Domen.deps.json
+C:\Users\vukpe\Code\VezbaSoketi\Domen\bin\Debug\net8.0\Domen.dll
+C:\Users\vukpe\Code\VezbaSoketi\Domen\bin\Debug\net8.0\Domen.pdb
+C:\Users\vukpe\Code\VezbaSoketi\Domen\obj\Debug\net8.0\Domen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vukpe\Code\VezbaSoketi\Domen\obj\Debug\net8.0\Domen.AssemblyInfoInputs.cache
+C:\Users\vukpe\Code\VezbaSoketi\Domen\obj\Debug\net8.0\Domen.AssemblyInfo.cs
+C:\Users\vukpe\Code\VezbaSoketi\Domen\obj\Debug\net8.0\Domen.csproj.CoreCompileInputs.cache
+C:\Users\vukpe\Code\VezbaSoketi\Domen\obj\Debug\net8.0\Domen.dll
+C:\Users\vukpe\Code\VezbaSoketi\Domen\obj\Debug\net8.0\refint\Domen.dll
+C:\Users\vukpe\Code\VezbaSoketi\Domen\obj\Debug\net8.0\Domen.pdb
+C:\Users\vukpe\Code\VezbaSoketi\Domen\obj\Debug\net8.0\ref\Domen.dll

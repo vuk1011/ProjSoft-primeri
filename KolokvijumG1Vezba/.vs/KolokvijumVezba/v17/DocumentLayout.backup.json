@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C3C8E-3305-4A9E-93B7-3C020E1AB40A}|Forme\\Forme.csproj|c:\\users\\vukpe\\code\\kolokvijumg1vezba\\forme\\formazadatak3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C3C8E-3305-4A9E-93B7-3C020E1AB40A}|Forme\\Forme.csproj|solutionrelative:forme\\formazadatak3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A9F8D6-810D-4681-A1D4-ED5EDA7E4A29}|BrokerBaze\\BrokerBaze.csproj|c:\\users\\vukpe\\code\\kolokvijumg1vezba\\brokerbaze\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A9F8D6-810D-4681-A1D4-ED5EDA7E4A29}|BrokerBaze\\BrokerBaze.csproj|solutionrelative:brokerbaze\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385C1482-2EC0-4C28-9A72-678A522CAA8C}|Domen\\Domen.csproj|c:\\users\\vukpe\\code\\kolokvijumg1vezba\\domen\\pp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385C1482-2EC0-4C28-9A72-678A522CAA8C}|Domen\\Domen.csproj|solutionrelative:domen\\pp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385C1482-2EC0-4C28-9A72-678A522CAA8C}|Domen\\Domen.csproj|c:\\users\\vukpe\\code\\kolokvijumg1vezba\\domen\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385C1482-2EC0-4C28-9A72-678A522CAA8C}|Domen\\Domen.csproj|solutionrelative:domen\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385C1482-2EC0-4C28-9A72-678A522CAA8C}|Domen\\Domen.csproj|c:\\users\\vukpe\\code\\kolokvijumg1vezba\\domen\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385C1482-2EC0-4C28-9A72-678A522CAA8C}|Domen\\Domen.csproj|solutionrelative:domen\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C3C8E-3305-4A9E-93B7-3C020E1AB40A}|Forme\\Forme.csproj|c:\\users\\vukpe\\code\\kolokvijumg1vezba\\forme\\formaglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C3C8E-3305-4A9E-93B7-3C020E1AB40A}|Forme\\Forme.csproj|solutionrelative:forme\\formaglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B0CA8-8BEC-4EDB-B76F-371F591A4A0C}|KolokvijumVezba\\KolokvijumVezba.csproj|c:\\users\\vukpe\\code\\kolokvijumg1vezba\\kolokvijumvezba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553B0CA8-8BEC-4EDB-B76F-371F591A4A0C}|KolokvijumVezba\\KolokvijumVezba.csproj|solutionrelative:kolokvijumvezba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 186,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormaZadatak3.cs",
+              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Forme\\FormaZadatak3.cs",
+              "RelativeDocumentMoniker": "Forme\\FormaZadatak3.cs",
+              "ToolTip": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Forme\\FormaZadatak3.cs",
+              "RelativeToolTip": "Forme\\FormaZadatak3.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:50:37.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PP.cs",
+              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Domen\\PP.cs",
+              "RelativeDocumentMoniker": "Domen\\PP.cs",
+              "ToolTip": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Domen\\PP.cs",
+              "RelativeToolTip": "Domen\\PP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:44:23.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Predmet.cs",
+              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Domen\\Predmet.cs",
+              "RelativeDocumentMoniker": "Domen\\Predmet.cs",
+              "ToolTip": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Domen\\Predmet.cs",
+              "RelativeToolTip": "Domen\\Predmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:41:53.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Domen\\Profesor.cs",
+              "RelativeDocumentMoniker": "Domen\\Profesor.cs",
+              "ToolTip": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Domen\\Profesor.cs",
+              "RelativeToolTip": "Domen\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:28:51.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\BrokerBaze\\Broker.cs",
+              "RelativeDocumentMoniker": "BrokerBaze\\Broker.cs",
+              "ToolTip": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\BrokerBaze\\Broker.cs",
+              "RelativeToolTip": "BrokerBaze\\Broker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwFkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:57:23.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormaGlavna.cs",
+              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Forme\\FormaGlavna.cs",
+              "RelativeDocumentMoniker": "Forme\\FormaGlavna.cs",
+              "ToolTip": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\Forme\\FormaGlavna.cs",
+              "RelativeToolTip": "Forme\\FormaGlavna.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB8AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:21:00.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\KolokvijumVezba\\Program.cs",
+              "RelativeDocumentMoniker": "KolokvijumVezba\\Program.cs",
+              "ToolTip": "C:\\Users\\vukpe\\Code\\KolokvijumG1Vezba\\KolokvijumVezba\\Program.cs",
+              "RelativeToolTip": "KolokvijumVezba\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:19:50.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
