@@ -1,36 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|c:\\users\\vukpe\\code\\vezbasoketi\\domen\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|solutionrelative:domen\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D1B0AD1-7C10-4DB6-B439-E0C698DFF3F0}|VezbaSoketi\\VezbaSoketi.csproj|c:\\users\\vukpe\\code\\vezbasoketi\\vezbasoketi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D1B0AD1-7C10-4DB6-B439-E0C698DFF3F0}|VezbaSoketi\\VezbaSoketi.csproj|solutionrelative:vezbasoketi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F471AE34-6852-4C73-B29A-92E26268D692}|Klijent\\Klijent.csproj|c:\\users\\vukpe\\code\\vezbasoketi\\klijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F471AE34-6852-4C73-B29A-92E26268D692}|Klijent\\Klijent.csproj|solutionrelative:klijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|c:\\users\\vukpe\\code\\vezbasoketi\\domen\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|solutionrelative:domen\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|c:\\users\\vukpe\\code\\vezbasoketi\\domen\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|solutionrelative:domen\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|c:\\users\\vukpe\\code\\vezbasoketi\\domen\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|solutionrelative:domen\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|c:\\users\\vukpe\\code\\vezbasoketi\\domen\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7F6CFE-870E-4FD3-A2B7-281AA9FFBBFF}|Domen\\Utils.csproj|solutionrelative:domen\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\vukpe\\Code\\ProjSoft\\VezbaSoketi\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,98 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResponseMessage.cs",
-              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\ResponseMessage.cs",
-              "RelativeDocumentMoniker": "Domen\\ResponseMessage.cs",
-              "ToolTip": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\ResponseMessage.cs",
-              "RelativeToolTip": "Domen\\ResponseMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:34:14.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\Response.cs",
-              "RelativeDocumentMoniker": "Domen\\Response.cs",
-              "ToolTip": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\Response.cs",
-              "RelativeToolTip": "Domen\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:32:17.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RequestType.cs",
-              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\RequestType.cs",
-              "RelativeDocumentMoniker": "Domen\\RequestType.cs",
-              "ToolTip": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\RequestType.cs",
-              "RelativeToolTip": "Domen\\RequestType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:29:02.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\Request.cs",
-              "RelativeDocumentMoniker": "Domen\\Request.cs",
-              "ToolTip": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\Request.cs",
-              "RelativeToolTip": "Domen\\Request.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:26:29.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\Customer.cs",
-              "RelativeDocumentMoniker": "Domen\\Customer.cs",
-              "ToolTip": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Domen\\Customer.cs",
-              "RelativeToolTip": "Domen\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:07:41.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Klijent\\Program.cs",
-              "RelativeDocumentMoniker": "Klijent\\Program.cs",
-              "ToolTip": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\Klijent\\Program.cs",
-              "RelativeToolTip": "Klijent\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:07:21.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\VezbaSoketi\\Program.cs",
-              "RelativeDocumentMoniker": "VezbaSoketi\\Program.cs",
-              "ToolTip": "C:\\Users\\vukpe\\Code\\VezbaSoketi\\VezbaSoketi\\Program.cs",
-              "RelativeToolTip": "VezbaSoketi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:05:43.201Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
