@@ -24,14 +24,14 @@ int resurs = 0;
 
 void OperacijaNadZajednickimResursom()
 {
-	for (int i = 0; i < 10; i++)
-	{
-		Thread.Sleep(RandomNumberGenerator.GetInt32(100));
+    for (int i = 0; i < 10; i++)
+    {
+        Thread.Sleep(RandomNumberGenerator.GetInt32(100));
         Console.WriteLine(Thread.CurrentThread.Name + " izvrsava operaciju...");
         int trenutnaVrednost = resurs;
         Thread.Sleep(RandomNumberGenerator.GetInt32(100));
         int novaVrednost = trenutnaVrednost + 1;
         Thread.Sleep(RandomNumberGenerator.GetInt32(100));
         resurs = novaVrednost;
-	}
+    }
 }
